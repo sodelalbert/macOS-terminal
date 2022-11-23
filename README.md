@@ -39,7 +39,6 @@ echo 'source "$HOME/.slimzsh/slim.zsh"' >> ~/.zshrc
 ```
 brew install vim; brew install git; brew install ffmpeg; brew install htop; brew install youtube-dl; 
  
-
 ```
 
 
